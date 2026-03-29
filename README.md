@@ -75,3 +75,22 @@ Design a reliable and scalable publishing system capable of:
 
 - https://journalissues.org  
 - https://journalissues.me  
+
+
+
+## Screenshots
+
+### Homepage
+![Homepage](homepage.PNG)
+
+### Homepage 2
+![Homepage 2](homepage%20(2).PNG)
+
+### Journals Listing
+![Journals](agric-journals.PNG)
+
+### Submission 1
+![Submission](submit.PNG)
+
+### Submission 2
+![Submission 2](submit%202.PNG)
